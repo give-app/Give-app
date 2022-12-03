@@ -8,7 +8,7 @@ Latest Give-app
 ![electron js](https://img.shields.io/badge/-React-0D2540?style=flat&logo=React&LogoColor=19AFE6)
 ![Adobe](https://img.shields.io/badge/-Adobe-EB3335?style=flat&logo=Adobe&LogoColor=EB3335)
 ![Node.js](https://img.shields.io/badge/-Node.js-061D1E?style=flat&logo=Node.js&LogoColor=061D1E)
-![Java Script](https://img.shields.io/badge/-Java Script-061D1E?style=flat&logo=Java Script&LogoColor=1E1706)
+![JavaScript](https://img.shields.io/badge/-JavaScript-061D1E?style=flat&logo=JavaScript&LogoColor=1E1706)
 
 
 
