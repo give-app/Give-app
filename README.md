@@ -5,7 +5,7 @@ Header
 Latest Give-app
 
 ### Languages and Tools
-![electron js](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![electron js](https://img.shields.io/badge/-<MESSAGE>-<COLOR>)
 
 Follow Me
 
