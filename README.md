@@ -5,7 +5,7 @@ Header
 Latest Give-app
 
 ### Languages and Tools
-![electron js](https://img.shields.io/badge/-electronjs-0D2540?style=for-the-badge&logo=electron-js)
+![electron js](https://img.shields.io/badge/-React-0D2540?style=flat&logo=React)
 ![Adobe](https://img.shields.io/badge/-Adobe-0D2540?style=flat&logo=Adobe)
 
 
