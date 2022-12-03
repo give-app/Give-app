@@ -20,7 +20,6 @@ Latest Give-app
 
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Give-app&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Give-app&show_icons=true&theme=transparent)
 
 
 
