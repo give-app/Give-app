@@ -11,7 +11,7 @@ Latest Give-app
 ![Adobe](https://img.shields.io/badge/-Adobe-EB3335?style=flat&logo=Adobe&LogoColor=EB3335)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Give-app&show_icons=true&theme=transparent)
 
 
 
